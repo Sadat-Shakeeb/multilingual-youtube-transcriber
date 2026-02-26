@@ -6,9 +6,9 @@ from utils.transcriber import transcribe_audio
 from utils.romanizer import convert_to_roman_urdu
 
 st.set_page_config(
-    page_title="YouTube to Roman Urdu",
-    page_icon="🎥",
-    layout="centered"
+    page_title="Roman Urdu Transcriber",
+    page_icon="🎧",
+    layout="wide"
 )
 
 # -------------------------------
