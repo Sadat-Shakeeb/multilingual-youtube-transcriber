@@ -3,3 +3,4 @@ yt-dlp
 faster-whisper
 google-generativeai
 python-dotenv
+ctranslate2
