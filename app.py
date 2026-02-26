@@ -8,7 +8,7 @@ from utils.romanizer import convert_to_roman_urdu
 st.set_page_config(
     page_title="Roman Urdu Transcriber",
     page_icon="🎧",
-    layout="wide"
+    layout="centered"
 )
 
 # -------------------------------
