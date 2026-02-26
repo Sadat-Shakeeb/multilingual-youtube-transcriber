@@ -4,3 +4,4 @@ faster-whisper
 google-generativeai
 python-dotenv
 ctranslate2
+ffmpeg-python
