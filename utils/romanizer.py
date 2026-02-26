@@ -20,7 +20,7 @@ def convert_to_roman_urdu(text, source_language):
 
     model = genai.GenerativeModel("models/gemini-2.5-flash")
 
-    chunks = chunk_text(text, chunk_size=7000)
+    chunks = chunk_text(text, chunk_size=9000)
     roman_chunks = []
 
     for chunk in chunks:
